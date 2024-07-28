@@ -120,12 +120,12 @@ body {
 }
 
 ::selection {
-  background: #0071f8;
+  background:#ffc2d1;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #0071f8;
+  background:#ffc2d1;
   color: #fff;
 }
 
@@ -1113,7 +1113,7 @@ Footer Style
 
 footer {
   margin-top: 150px;
-  background-color: #0071f8;
+  background-color: #ffc2d1;
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url(../images/footer-bg.jpg);
